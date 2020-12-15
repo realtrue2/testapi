@@ -1,9 +1,12 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+          "title: "Чёрное худи унисекс  «Правда/Ложь»",
+          "price": "4500",
+          "discount": "3000",
+          "image": "/_nuxt/assets/img/Products/a7306d01896.jpg",
+          "slug": "chjornoe-hudi-pravda-lozh",
+        }
   ],
   "profile": {
     "name": "typicode"
