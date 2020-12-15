@@ -2,10 +2,10 @@
   "products": [
     {
           "title: "pravda",
-          "price": "4500",
-          "discount": "3000",
+          "price": 4500,
+          "discount": 3000,
           "image": "a7306d01896.jpg",
-          "slug": "hudi"
+          "slug": "chjornoe-hudi-pravda-lozh"
         }
   ]
 }
