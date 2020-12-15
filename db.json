@@ -1,34 +1,34 @@
 {
-  "users": [
+  "products": [
     {
       "id": "1",
       "title": "Animesh",
-      "price": 4500,
-      "discount": 3000,
+      "price": "4500",
+      "discount": "3000",
       "image": "a7306d01896.jpg",
       "slug": "chjornoe-hudi-pravda-lozh"
     },
     {
       "id": "2",
       "title": "Animesh",
-      "price": 4500,
-      "discount": 3000,
+      "price": "4500",
+      "discount": "3000",
       "image": "a7306d01896.jpg",
       "slug": "chjornoe-hudi-pravda-lozh"
     },
     {
       "id": "3",
       "title": "Animesh",
-      "price": 4500,
-      "discount": 3000,
+      "price": "4500",
+      "discount": "3000",
       "image": "a7306d01896.jpg",
       "slug": "chjornoe-hudi-pravda-lozh"
     },
     {
       "id": "4",
       "title": "Animesh",
-      "price": 4500,
-      "discount": 3000,
+      "price": "4500",
+      "discount": "3000",
       "image": "a7306d01896.jpg",
       "slug": "chjornoe-hudi-pravda-lozh"
     }
