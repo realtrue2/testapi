@@ -1,6 +1,6 @@
 {
-      productsList: [
-        {
+  "products": [
+   {
           title: 'Чёрное худи унисекс  «Правда/Ложь»',
           price: '4500',
           discount: '3000',
@@ -27,6 +27,8 @@
           discount: '3000',
           image: ProductImage,
           slug: 'chjornoe-hudi-pravda-lozh',
-        },
-        ],
         }
+  ]
+}
+
+
